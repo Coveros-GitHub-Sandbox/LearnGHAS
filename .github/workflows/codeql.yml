@@ -84,9 +84,5 @@ jobs:
       uses: security-and-quality
       with:
         category: "/language:${{matrix.language}}"
-        
-       
-
-      
-    paths-ignore:
-      - '**/test/**'
+     #paths-ignore:
+     # - '**/test/**'
