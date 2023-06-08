@@ -48,7 +48,9 @@ jobs:
       with:
         languages: ${{ matrix.language }}
         # If you wish to specify custom queries, you can do so here or in a config file.
-        # By default, queries listed here will override any specified in a config file.
+        queries: security-and-quality
+    
+      # By default, queries listed here will override any specified in a config file.
         # Prefix the list here with "+" to use these queries and those in the config file.
 
         # For more details on CodeQL's query packs, refer to: https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/configuring-code-scanning#using-queries-in-ql-packs
@@ -79,10 +81,7 @@ jobs:
     #     ./location_of_script_within_repo/buildscript.sh
 
     - name: Perform CodeQL Analysis
-      #uses: github/codeql-action/analyze@v2
-      uses: security-extended
-      uses: security-and-quality
+      uses: github/codeql-action/analyze@v2
       with:
         category: "/language:${{matrix.language}}"
-     #paths-ignore:
-     # - '**/test/**'
+    
