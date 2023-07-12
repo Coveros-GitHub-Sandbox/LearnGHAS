@@ -61,8 +61,35 @@ jobs:
 
     # Autobuild attempts to build any compiled languages (C/C++, C#, Go, Java, or Swift).
     # If this step fails, then you should remove it and run the build manually (see below)
-    - name: Autobuild
-      uses: github/codeql-action/autobuild@v2
+    
+    # Worst case go to GH actions market place and search "setup [lang]"
+    
+    #Build CSharp Example
+    # https://github.com/marketplace/actions/setup-net-core-sdk
+  #  - name: Checkout
+  #    uses: actions/checkout@v3
+    
+  #  - name: Build CSharp-DotNet
+  #    uses: actions/setup-dotnet@v3
+  #    with:
+  #      dotnet-version: '3.1.x'
+  
+  #  - run: dotnet build <my project>
+    # .csproj file
+   # END of CSharp Example
+    
+    
+    # Build Java
+      # https://github.com/marketplace/actions/setup-java-jdk#Usage
+  #  - name: Checkout Java Example
+  #    uses: actions/checkout@v3
+  #  - name: Build Java Version 'X' (See Doc for other details)
+  #    uses: actions/setup-java@v3
+  #    with:
+  #      distribution: 'zulu' # See 'Supported distributions' for available options
+  #      java-version: '17'
+  # - run: java HelloWorldApp.java
+   # End of Java Build Example 
 
     # ℹ️ Command-line programs to run using the OS shell.
     # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
