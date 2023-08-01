@@ -8,3 +8,7 @@ queries:
 
 paths-ignore:
   - '**/test/**'
+
+
+path-include:
+- '**/test/**
