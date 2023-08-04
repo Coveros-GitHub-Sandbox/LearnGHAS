@@ -1,6 +1,6 @@
 name: "CodeQL Config"
 
-disable-default-queries: true
+disable-default-queries: false
 
 queries:
   - uses: security-and-quality
