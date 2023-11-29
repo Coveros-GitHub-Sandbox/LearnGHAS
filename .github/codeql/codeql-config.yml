@@ -7,9 +7,9 @@ queries:
   - uses: security-extended
   - uses: ./custom-queries/code-scanning.qls
 
-paths-ignore:
-  - '**/test/**'
+#paths-ignore:
+#  - '**/test/**'
 
 
-path-include:
-- '**/test/**
+#path-include:
+#- '**/test/**
