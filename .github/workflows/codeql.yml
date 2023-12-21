@@ -22,7 +22,7 @@ on:
   # ignore workflow kicking off when specific files or folders are updated
   #GLob pattern syntax: https://www.malikbrowne.com/blog/a-beginners-guide-glob-patterns/
     paths-ignore:
-     - "**/.md"
+     - "**/*.md"
 
 jobs:
   analyze:
