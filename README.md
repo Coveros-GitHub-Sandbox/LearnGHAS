@@ -7,7 +7,7 @@
   <li> <a href="https://github.com/Santandersecurityresearch/cryptobom-forge"> Crypto-Bill of Materials "CBOM"</a> </li>
 </ul>
 
-<h1 align="center">GitHub Advanced Security Resources to research more....</h1>
+<h1 align="center"> GitHub Advanced Security Resources to research more.... </h1>
 <ul>
   <li> <a href="https://github.com/CycodeLabs/raven">GHAS Security Scanning / Assessment</a> </li>
 </ul>
