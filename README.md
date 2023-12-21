@@ -1,12 +1,11 @@
 <h1 align="center">GitHub Advanced Security Helpful Resources</h1>
 
-<h2 align="center">IaC</h2>
+<h2 align="center">IaC </h2>
 <ul>
-  <li><a href="https://github.com/kubescape/github-action"> Kubescape Action; Kubernetes scanning, Helm scanning, and YAML files</li>
+  <li> <a href="https://github.com/kubescape/github-action"> Kubescape Action; Kubernetes scanning, Helm scanning, and YAML files</li>
   <li> <a href="https://github.com/bridgecrewio/checkov-action">Infrastructure as Code / Bridgecrew</a> </li>
   <li> <a href="https://github.com/aquasecurity/trivy-action">Trivy - Containers,Filesystem,Git Repo, Virtual Machine Images, AWS, Kubernetes</a> </li>
   <li> <a href="https://github.com/anchore/scan-action">Anchore is similar to above Docker / Filesystem scanning</a> </li>
-  
 </ul>
 
 
