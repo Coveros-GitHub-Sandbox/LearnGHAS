@@ -21,7 +21,7 @@ on:
   #  - cron: '19 1 * * 0'
   # ignore workflow kicking off when specific files or folders are updated
   #GLob pattern syntax: https://www.malikbrowne.com/blog/a-beginners-guide-glob-patterns/
-    paths-exclude:
+    paths-ignore:
      - "**/.md"
 
 jobs:
