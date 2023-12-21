@@ -1,3 +1,6 @@
+# Link to Query Packs: https://github.com/orgs/codeql/packages, https://github.com/github/codeql/tree/main/cpp/ql/src/codeql-suites
+
+
 # Reusing existing QL Pack
 - import: codeql-suites/javascript-code-scanning.qls
   from: codeql/javascript-queries
