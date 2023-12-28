@@ -4,15 +4,6 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 
-# Update NPM version 2 for the entire repo on a weekly schedule
-version: 2
-updates:
-  - package-ecosystem: "npm" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "weekly"
-
-
 # using group updates.
 # Any packages matching the pattern @angular* where the highest resolvable
 # version is minor or patch will be grouped together.
@@ -36,9 +27,6 @@ updates:
         - "major"
 
   # Use `ignore` to specify dependencies that should not be updated
-
-version: 2
-updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
