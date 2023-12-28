@@ -11,7 +11,7 @@ django-two-factor-auth==1.12
 itsdangerous==1.1.0
 Jinja2==2.11.2
 keyring==17.1.1
-keyrings.alt==3.1.1
+keyrings.alt==5.0.0
 MarkupSafe==1.1.1
 pycrypto==2.6.1
 PyGObject==3.30.4
