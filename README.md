@@ -8,6 +8,25 @@
   <li> <a href="https://github.com/anchore/scan-action">Anchore is similar to above Docker / Filesystem scanning</a> </li>
 </ul>
 
+<h2 align="center">Linter</h2>
+<ul>
+  <li> <a href="https://github.com/marketplace/actions/super-linter"> GitHub Super Linter</li>
+</ul>
+
+
+
+
+
+
+<h2 align="center">DAST</h2>
+<ul>
+  <li> <a href="https://github.com/marketplace/actions/zap-full-scan">OWASP Zap Full Scan</li>
+  <li> <a href="https://github.com/marketplace/actions/zap-api-scan">OWASP Zap API Scan</li>
+  <li> <a href="https://github.com/marketplace/actions/zap-baseline-scan">OWASP Zap Baseline Scan</li>
+</ul>
+
+
+
 
 <h2 align="center">Third Party Integrations</h2>
 <ul>
