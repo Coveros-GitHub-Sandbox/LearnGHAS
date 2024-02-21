@@ -6,6 +6,7 @@
   <li> <a href="https://github.com/bridgecrewio/checkov-action">Infrastructure as Code / Bridgecrew</a> </li>
   <li> <a href="https://github.com/aquasecurity/trivy-action">Trivy - Containers,Filesystem,Git Repo, Virtual Machine Images, AWS, Kubernetes</a> </li>
   <li> <a href="https://github.com/anchore/scan-action">Anchore is similar to above Docker / Filesystem scanning</a> </li>
+  <li> <a href="https://github.com/microsoft/security-devops-action"> MSFT IAC All in one action</a> </li>
 </ul>
 
 <h2 align="center">Linter</h2>
