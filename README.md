@@ -39,6 +39,7 @@
 <ul>
   <li> <a href="https://github.com/CycodeLabs/raven">GHAS Security Scanning / Assessment</a> </li>
   <li> <a href="https://github.com/Santandersecurityresearch/cryptobom-forge"> Crypto-Bill of Materials "CBOM"</a> </li>
+  <li> <a href="https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/"> Kotlin,Node JS, Powershell, Kubernetes, PHP, Terraform, Mobile Languages, C/C++, Cobol</a> </li>
 </ul>
 
 
