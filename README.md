@@ -67,7 +67,7 @@ git remote set-url origin git@github.com:{org-or-username}/{repo-name}.git
 We will go over the following topics:
 
 <details>
-<summary>Day one </summary>
+<summary>Day one of the class </summary>
 
 #### Day one learning
 - [x] Comprehensive overview of GHAS
