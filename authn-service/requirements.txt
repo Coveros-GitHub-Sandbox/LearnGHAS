@@ -8,7 +8,7 @@ Flask==3.0.1
 Flask-Cors==3.0.8
 idna==2.10
 django-two-factor-auth==1.12
-itsdangerous==1.1.0
+itsdangerous==1.1.1
 Jinja2==2.11.2
 keyring==17.1.1
 keyrings.alt==3.1.1
@@ -18,7 +18,7 @@ PyGObject==3.30.4
 PyJWT==1.7.1
 python-dotenv==0.15.0
 pyxdg==0.25
-requests==2.24.0
+requests==2.31.0
 SecretStorage==2.3.1
 six==1.12.0
 urllib3==1.25.11
