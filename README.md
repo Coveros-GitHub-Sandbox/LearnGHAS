@@ -66,6 +66,8 @@ git remote set-url origin git@github.com:{org-or-username}/{repo-name}.git
 
 We will go over the following topics:
 
+CHANGE!!!
+
 <details>
 <summary>Day one </summary>
 
